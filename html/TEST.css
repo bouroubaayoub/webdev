@@ -14,8 +14,9 @@ h3{
 h5{
     color: brown;
    margin-left: 100px;  
- font-family:cambria-bold;
+ font-family:cambria;
  font-size: 16px;
+     font-weight: bold;
 
 }
 input{
@@ -34,4 +35,5 @@ img{
     margin-top: 45px;
     width: 250px;
     height: 250px;
+
 }
